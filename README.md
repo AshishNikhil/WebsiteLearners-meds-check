@@ -9,10 +9,7 @@ Login Methods:-
 
 Issues Faced:-
 
-  1.This was my first time working with:
-  2.Supabase for authentication and database
-  3.React Hook Form for form handling and validation
-  4.Tailwind CSS for styling
+ This was my first time working with:Supabase for authentication and databaseReact Hook Form for form handling and validationTailwind CSS for styling
 
 How I Overcame These Challenges:-
 
