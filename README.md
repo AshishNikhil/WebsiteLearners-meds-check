@@ -1,12 +1,32 @@
-# React + Vite
+Meds-Check
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Login Methods:-
 
-Currently, two official plugins are available:
+  You can either: Sign up using your own email
+  Or use the demo credentials below:
+  Email: ashish28nikhil@gmail.com
+  Password: medbuddy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Issues Faced:-
 
-## Expanding the ESLint configuration
+  1.This was my first time working with:
+  2.Supabase for authentication and database
+  3.React Hook Form for form handling and validation
+  4.Tailwind CSS for styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+How I Overcame These Challenges:-
+
+  1. I followed the official documentation to understand the basics
+  2. I watched tutorials and videos to see real-world examples
+  3. I used trial and error and console debugging to resolve issues
+  4. I searched online for help whenever I got stuck
+  5. I used JavaScript in this project. Although I didn’t use TypeScript, I’m willing to learn and start using it in the near future.
+
+Tech Stack:-
+
+  1.React (JavaScript)
+  2.Supabase
+  3.Tailwind CSS
+  4.React Hook Form
+  
+Thank you for taking the time to review my project and for the opportunitie.
